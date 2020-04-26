@@ -1,0 +1,1000 @@
+  864  clear
+  865  ls
+  866  cd workspace
+  867  ls
+  868  ls -a
+  869  cd linuxChallenge/
+  870  ls
+  871  copy task1.sh
+  872  locate '10  Susumu Yokota - King Of Darkness'
+  873  cp 10  Susumu Yokota - King Of Darkness 
+  874  exit
+  875  help
+  876  help rm
+  877  help man -k rm
+  878  help 'info rm'
+  879  clear
+  880  exit
+  881  ls
+  882  cd Documents/
+  883  ls
+  884  cd Umuzi
+  885  ls
+  886  rmdir 'linux challenge'
+  887  rm -r 'linux challenge'
+  888  clear
+  889  ls
+  890  mkdir linuxChallenge
+  891  ls
+  892  cd linuxChallenge
+  893  ls
+  894  touch task1&2.md
+  895  ls
+  896  rm task1
+  897  ls
+  898  clear
+  899  touch task1.md
+  900  nano task1.md 
+  901  clear
+  902  touch task2.sh
+  903  nano task2.sh 
+  904  clear
+  905  touch task3.sh
+  906  nano task3.sh
+  907  clear
+  908  nano task3.sh 
+  909  touch task4.sh
+  910  nano task4.sh 
+  911  touch task5.sh
+  912  nano task5.sh
+  913  clear
+  914  ls
+  915  touch task6.sh
+  916  nano task6.sh
+  917  nano task5.sh
+  918  nano task4.sh 
+  919  nano task3.sh 
+  920  nano task2.sh 
+  921  nano task1.sh
+  922  nano task1.md
+  923  nano task7.sh
+  924  nano task8.sh
+  925  ls
+  926  cd desktop
+  927  cd Desktop
+  928  cd work
+  929  pwd
+  930  ls
+  931  cat pdfsearch.md
+  932  ls
+  933  ls
+  934  pwd
+  935  mkdir workspace
+  936  cd workspace/
+  937  ls
+  938  touch README.md
+  939  touch CHANGELOG.md
+  940  ls
+  941  mkdir linuxChallenge
+  942  cd linuxChallenge/
+  943  touch task.sh
+  944  rm task.sh
+  945  ls
+  946  touch task1.sh
+  947  ls
+  948  nano
+  949  cd ..
+  950  pwd
+  951  ls
+  952  cp -r linuxChallenge workspace
+  953  ls
+  954  cd workspace
+  955  ls
+  956  cd ..
+  957  rm workspace
+  958  rm -r workspace
+  959  ls
+  960  cp README.md
+  961  cp README.md workspace
+  962  ls
+  963  cd workspace
+  964  workspace
+  965  nano workspace
+  966  rm workspace
+  967  ls
+  968  rm CHANGELOG.md
+  969  ls
+  970  cp README.md CHANGELOG.md
+  971  ls
+  972  cd ..
+  973  ls
+  974  rm -r workspace/
+  975  ls
+  976  clear
+  977  ls
+  978  pwd
+  979  mkdir workspace
+  980  cd workspace
+  981  ls
+  982  touch README.md
+  983  cp README.md CHANGELOG.md
+  984  ls
+  985  clear
+  986  echo $PATH
+  987  ls
+  988  locate */tmp
+  989  ls -a
+  990  pwd
+  991  /home/haplo/workspace/tmp
+  992  ls -la
+  993  clear
+  994  touch exercise.md
+  995  mv exercise.md /tmp
+  996  ls
+  997  rm -i /tmp/exercise.md
+  998  clear
+  999  touch umuzi.md
+ 1000  rm umuzi.md
+ 1001  touch umuzi.md recruits.md cohort.md
+ 1002  ls
+ 1003  cat umuzi.md recruits.md cohort.md
+ 1004  clear
+ 1005  ls
+ 1006  cat cohort.md recruits.md umuzi.md
+ 1007  code .
+ 1008  cat cohort.md recruits.md umuzi.md
+ 1009  CLEAR 
+ 1010  clear
+ 1011  cat cohort.md recruits.md umuzi.md
+ 1012  clear
+ 1013  ls
+ 1014  cat cohort.md recruits.md umuzi.md
+ 1015  cat cohort.md recruits.md umuzi.md > summary.md
+ 1016  cat summary.md
+ 1017  clear
+ 1018  echo "The End" >> summary.md
+ 1019  cat summary.md
+ 1020  clear
+ 1021  locate umuzi
+ 1022  locate umuzi.md
+ 1023  ls
+ 1024  clear
+ 1025  locate umuzi > search_result.md
+ 1026  clear
+ 1027  cd ..
+ 1028  ls
+ 1029  clear
+ 1030  cd Documents
+ 1031  touch pad.md
+ 1032  cd /home/Desktop
+ 1033  ls
+ 1034  pwd
+ 1035  cd /home/haplo/Desktop
+ 1036  mkdir work
+ 1037  cd work
+ 1038  cp /home/haplo/Documents/pad.md pad_copy.md
+ 1039  ls
+ 1040  locate updatedb
+ 1041  cd -
+ 1042  locate 'pad_copy.md'
+ 1043  cd ..
+ 1044  cd Documents
+ 1045  locate 'pad_copy.md'
+ 1046  locate pad_copy.md
+ 1047  locate copy.md
+ 1048  locate *pad_copy.md
+ 1049  locate pad_copy.md
+ 1050  locate updatedb
+ 1051  locate pad_copy.md
+ 1052  find pad_copy.md
+ 1053  ls
+ 1054  cd ..
+ 1055  ls
+ 1056  cd Desktop
+ 1057  cd work
+ 1058  ls
+ 1059  locate updatedb
+ 1060  locate pad_copy.md
+ 1061  locate *.md
+ 1062  locate "pad_copy.md"
+ 1063  locate "*.md"
+ 1064  sudo updatedb
+ 1065  cd -
+ 1066  locate pad_copy.md
+ 1067  locate "pad_copy.md"
+ 1068  clear
+ 1069  find ./home -name *.pdf
+ 1070  pwd
+ 1071  find ./home/haplo -name *.pdf
+ 1072  cd ..
+ 1073  pwd
+ 1074  cd ..
+ 1075  pwd
+ 1076  find ./home -name *.pdf
+ 1077  find /home -name *.pdf
+ 1078  clear
+ 1079  ls
+ 1080  cd haplo
+ 1081  cd Desktop
+ 1082  find /home -name *.pdf
+ 1083  cd ..
+ 1084  find /home -name *.pdf
+ 1085  clear
+ 1086  find /home -name *.pdf
+ 1087  find /home -name *.pdf > /home/haplo/Desktop/work pdf_searchResults.md
+ 1088  clear
+ 1089  find /home -name *.pdf > /home/haplo/Desktop/work pdf_searchResults.md
+ 1090  find /home -name *.pdf > /home/haplo/Desktop/work/pdf_searchResults.md
+ 1091  find /haplo -name *.pdf > /home/haplo/Desktop/work/pdf_searchResults.md
+ 1092  find /home/haplo -name *.pdf > /home/haplo/Desktop/work/pdf_searchResults.md
+ 1093  find -name *.pdf > /home/haplo/Desktop/work/pdf_searchResults.md
+ 1094  find -name *.pdf
+ 1095  cat find -name *.pdf
+ 1096  cat find -name *.pdf -ls
+ 1097  find -name *.pdf -ls
+ 1098  find -name *.pdf -ls > pdfsearch.md
+ 1099  find -name *.pdf -ls > ~/haplo/pdfsearch.md
+ 1100  find -name *.pdf -ls > ~/Desktop/work/pdfsearch.md
+ 1101  sudo find -name *.pdf -ls > ~/Desktop/work/pdfsearch.md
+ 1102  find -newermt "-24 hours" -ls
+ 1103  clear
+ 1104  ~/Desktop/work
+ 1105  cd ~/Desktop/work
+ 1106  ls
+ 1107  clear
+ 1108  nano my_bio.md
+ 1109  ls
+ 1110  nano my_bio.md
+ 1111  mkdir my_files
+ 1112  mv my_bio.md /my_files
+ 1113  sudo mv my_bio.md /my_files
+ 1114  ls
+ 1115  cd my_files
+ 1116  ls
+ 1117  ls -a
+ 1118  pwd
+ 1119  cd ..
+ 1120  pwd
+ 1121  mv my_bio.md ./my_files
+ 1122  ls
+ 1123  cd ..
+ 1124  locate "my_bio.md"
+ 1125  find my_bio.md
+ 1126  clear
+ 1127  locate my_files
+ 1128  updatedb
+ 1129  mlocate updatedb
+ 1130  locate my_files
+ 1131  locate "my_bio.md"
+ 1132  clear
+ 1133  cd ~/Desktop/work
+ 1134  nano my_bio.md
+ 1135  mkdir my_files
+ 1136  ls
+ 1137  cd my_files
+ 1138  ls
+ 1139  pwd
+ 1140  mv my_bio.md /home/haplo/Desktop/work/my_files
+ 1141  cd ..
+ 1142  mv my_bio.md /home/haplo/Desktop/work/my_files
+ 1143  ls
+ 1144  cd my_files
+ 1145  ls
+ 1146  clear
+ 1147  cd ..
+ 1148  sudo apt update
+ 1149  sudo apt upgrade
+ 1150  sudo apt install tree
+ 1151  clear
+ 1152  ls
+ 1153  cd workspace
+ 1154  ls
+ 1155  cd ..
+ 1156  cd Documents
+ 1157  ls
+ 1158  cd Umuzi
+ 1159  ls
+ 1160  cd linuxChallenge
+ 1161  ls
+ 1162  git status
+ 1163  cd ..
+ 1164  git clone git@github.com:Themba-Stacks/LinuxChallenge.git
+ 1165  ls
+ 1166  cd linuxChallenge
+ 1167  ls
+ 1168  cd LinuxChallenge
+ 1169  git status
+ 1170  git add .
+ 1171  git status
+ 1172  git commit -m "completed tasks"
+ 1173  git status
+ 1174  git push
+ 1175  touch fb.txt
+ 1176  nano
+ 1177  nano insta.txt
+ 1178  nano twitter.txt
+ 1179  nano aboutme.txt
+ 1180  nano skills.txt
+ 1181  nano project.txt
+ 1182  nanon cntact.txt
+ 1183  nano contact.txt
+ 1184  clear
+ 1185  cd ..
+ 1186  ls
+ 1187  cd workspace
+ 1188  ls
+ 1189  ls -a
+ 1190  cd ..
+ 1191  cd Documents
+ 1192  ls
+ 1193  cd Umuzi
+ 1194  ls
+ 1195  mkdir Portfolio
+ 1196  cd Portfolio code .
+ 1197  cd Portfolio
+ 1198  code .
+ 1199  python
+ 1200  ls
+ 1201  cd ..
+ 1202  ls
+ 1203  git clone git@github.com:Themba-Stacks/Portfolio.git
+ 1204  cd Portfolio
+ 1205  ls
+ 1206  git clone git@github.com:Themba-Stacks/Portfolio.git
+ 1207  ls
+ 1208  cd Portfolio
+ 1209  ls
+ 1210  code .
+ 1211  git status
+ 1212  git add .
+ 1213  git commit -m "first portfolio project load to the hub" 
+ 1214  git status
+ 1215  git push
+ 1216  git status
+ 1217  git add .
+ 1218  git commit -m "changed text on page"
+ 1219  git push
+ 1220  git status
+ 1221  git add .
+ 1222  git commit -m "chaned placeholders pictures"
+ 1223  git push
+ 1224  git status
+ 1225  git add .
+ 1226  git commit -m "corrected picture naming error"
+ 1227  git push
+ 1228  java
+ 1229  python
+ 1230  code .
+ 1231  ls
+ 1232  cd Documents
+ 1233  ls
+ 1234  cd Umuzi
+ 1235  ls
+ 1236  cd Portfolio
+ 1237  ls
+ 1238  cd Portfolio
+ 1239  ls
+ 1240  code .
+ 1241  git status
+ 1242  git add .
+ 1243  git commit -m "changed about me and removed contact form"
+ 1244  git push
+ 1245  git status
+ 1246  git add .
+ 1247  git commit -m "changed overall padding"
+ 1248  git push
+ 1249  cd Documents
+ 1250  ls
+ 1251  cd Books
+ 1252  ls
+ 1253  cd Programming
+ 1254  git clone git@github.com:Themba-Stacks/books-1.git
+ 1255  exit
+ 1256  cmtrix -s
+ 1257  cmatrix -s
+ 1258  cmatrix -b
+ 1259  cd Documents
+ 1260  ls
+ 1261  cd Umuzi
+ 1262  cd Portfolio
+ 1263  code .
+ 1264  genymotion
+ 1265  snap -version
+ 1266  snap --v
+ 1267  snap
+ 1268  exit
+ 1269  npm -version
+ 1270  sudo apt install npm 
+ 1271  npm --version
+ 1272  curl curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+ 1273  sudo apt-get install -y nodejs
+ 1274  node -version
+ 1275  node
+ 1276  python
+ 1277  node
+ 1278  ashmem_linux
+ 1279  $ sudo add-apt-repository ppa:morphis/anbox-support
+ 1280  sudo add-apt-repository ppa:morphis/anbox-support
+ 1281  sudo apt update
+ 1282  sudo apt install linux-headers-generic anbox-modules-dkms
+ 1283  sudo apt install software-properties-common
+ 1284  sudo modprobe ashmem_linux
+ 1285  sudo modprobe binder_linux
+ 1286  ls -1 /dev/{ashmem,binder}
+ 1287  locate ashmem
+ 1288  sudo apt install android-tools-adb
+ 1289  anbox.appmgr
+ 1290  snap install --devmode --beta anbox
+ 1291  snap refresh -beta --devmode anbox
+ 1292  snap refresh --beta --devmode anbox
+ 1293  snap info anbox
+ 1294  anbox.appmgr
+ 1295  anbox
+ 1296  anbox session-manager
+ 1297  snap remove anbox
+ 1298  clear
+ 1299  npm -v
+ 1300  node -v
+ 1301  clear
+ 1302  exit
+ 1303  cd Documents/Umuzi
+ 1304  ls
+ 1305  cd Techdep
+ 1306  ls
+ 1307  cd Portfolio
+ 1308  ls
+ 1309  cd Portfolio
+ 1310  code .
+ 1311  cd Document/Umuzi/Portfolio/Portfolio
+ 1312  cd Document/Umuzi/Portfolio
+ 1313  cd Document/Umuzi
+ 1314  ls
+ 1315  cd Documents/Umuzi/Portfolio/Portfolio
+ 1316  cd Documents
+ 1317  cd Umuzi
+ 1318  Techdep
+ 1319  ls
+ 1320  cd Techdep
+ 1321  ls
+ 1322  cd Portfolio
+ 1323  code .
+ 1324  ls
+ 1325  cd Documents
+ 1326  cd Umuzi
+ 1327  ls
+ 1328  cd Techdep
+ 1329  ls
+ 1330  git clone git@github.com:Themba-Stacks/KatasLevelOne.git
+ 1331  ls
+ 1332  cd KatasLevelOne
+ 1333  ls
+ 1334  code .
+ 1335  git status
+ 1336  git add README.md
+ 1337  git commit -m "added details about the repository and whats its for to the read me doc"
+ 1338  git status
+ 1339  git push
+ 1340  clear
+ 1341  ls
+ 1342  git status
+ 1343  git add .
+ 1344  git commit -m "created javascript file for first exercises"
+ 1345  git push
+ 1346  ls
+ 1347  exerciseHello.js
+ 1348  clear
+ 1349  node exerciseHello.js
+ 1350  git status
+ 1351  git add .
+ 1352  git commit -m "completed hello exercise"
+ 1353  git status
+ 1354  git push
+ 1355  clear
+ 1356  cd ..
+ 1357  cd .
+ 1358  cd ..
+ 1359  ls
+ 1360  cd 'software downloads'
+ 1361  ls
+ 1362  cd Documents/
+ 1363  ls
+ 1364  cd Umuzi
+ 1365  ls
+ 1366  cd Techdep/
+ 1367  ls
+ 1368  cd KatasLevelOne/
+ 1369  git status
+ 1370  git add oddoreven.js
+ 1371  git commit -m "add odd or even javascript file"
+ 1372  git status
+ 1373  git push
+ 1374  node.js
+ 1375  node
+ 1376  python
+ 1377  clear
+ 1378  ls
+ 1379  cd Documents/
+ 1380  ls
+ 1381  cd Umuzi/
+ 1382  cd Techdep/
+ 1383  ls
+ 1384  cd KatasLevelOne/
+ 1385  git status
+ 1386  git add .
+ 1387  git commit -m "completed code for draw square question"
+ 1388  git push
+ 1389  clear
+ 1390  git status
+ 1391  git add .
+ 1392  git commit -m "right angle triangle qestion completed"
+ 1393  git push
+ 1394  python
+ 1395  cd Documents/
+ 1396  cd Umuzi/
+ 1397  cd Techdep/
+ 1398  cd Portfolio/
+ 1399  cd ..
+ 1400  ls
+ 1401  cd KatasLevelOne/
+ 1402  git status
+ 1403  git add isoscelesTriangle.js 
+ 1404  git commit -m "completed isosceles triangle exercise"
+ 1405  git push
+ 1406  git status
+ 1407  git ignore file.py
+ 1408  gitignore file.py
+ 1409  ls -a
+ 1410  touch gitignore
+ 1411  ls
+ 1412  rm gitignore
+ 1413  clear
+ 1414  ls
+ 1415  /usr/bin/python3 /home/haplo/Documents/Umuzi/Techdep/KatasLevelOne/file.py
+ 1416  node
+ 1417  ls
+ 1418  cd Documents/
+ 1419  ls
+ 1420  cd Umuzi/
+ 1421  ls
+ 1422  touch test.js
+ 1423  code .
+ 1424  exit
+ 1425  ls
+ 1426  cd Documents/
+ 1427  cd Umuzi/
+ 1428  ls
+ 1429  cd Techdep/
+ 1430  ls
+ 1431  cd KatasLevelOne/
+ 1432  code .
+ 1433  git status
+ 1434  git add longestString.js
+ 1435  git commit -m "completed find longes string exercise"
+ 1436  git push
+ 1437  clear
+ 1438  git status
+ 1439  git add combineTwoArrays.js
+ 1440  git commit -m "completed combining two equal length arrays"
+ 1441  git push
+ 1442  git status
+ 1443  clear
+ 1444  git status
+ 1445  git add .
+ 1446  git commit -m "completed last question"
+ 1447  git push
+ 1448  clear
+ 1449  java -v
+ 1450  java
+ 1451  java --version
+ 1452  java uninstall
+ 1453  java -version
+ 1454  $ sudo update-alternatives --remove "java" "/usr/lib/jvm/jdk[version]/bin/java"
+ 1455  $ sudo update-alternatives --remove "java" "/usr/lib/jvm/jdk13.0.2/bin/java"
+ 1456  $ sudo update-alternatives --remove
+ 1457  $ sudo update-alternatives --remove "java"
+ 1458  java -version
+ 1459  sudo update-alternatives --remove "java" "/usr/lib/jvm/jdk13.0.2/bin/java"
+ 1460  sudo update-alternatives --remove "javac" "/usr/lib/jvm/jdk13.0.2/bin/javac"
+ 1461  sudo update-alternatives --remove "javaws" "/usr/lib/jvm/jdk13.0.2/jre/bin/javaws"
+ 1462  sudo rm -r /usr/lib/jvm/jdk13.0.2
+ 1463  ls
+ 1464  cd usr
+ 1465  java -version
+ 1466  ls -a
+ 1467  sudo apt-get remove --auto-remove openjdk*
+ 1468  java
+ 1469  java -version
+ 1470  java --version
+ 1471  rm /usr/lib/mozilla/plugins/libnpjp2.so
+ 1472  sudo rm /usr/lib/mozilla/plugins/libnpjp2.so
+ 1473  rpm
+ 1474  locate java
+ 1475  cd ..
+ 1476  cd /usr/java/jre_
+ 1477  cd /opt/jre_nb/jre_/bin/java/
+ 1478  clear
+ 1479  sudo dpkg --get-selections
+ 1480  locate java-common
+ 1481  cd /usr/share/doc/java-common
+ 1482  ls
+ 1483  cd ..
+ 1484  ls
+ 1485  cd ..
+ 1486  ls
+ 1487  dpkg -l | grep oracle-java
+ 1488  sudo apt-get remove --purge oracle-java13-installer
+ 1489  dpkg -l | grep oracle-java
+ 1490  java -version
+ 1491  java --version
+ 1492  clear
+ 1493  sudo apt-get update; sudo apt-get install -y java-11-amazon-corretto-jdk
+ 1494  sudo apt-get update && sudo apt-get install java-common
+ 1495  java -version
+ 1496  sudo dpkg --install 
+ 1497  ls
+ 1498  cd home
+ 1499  ls
+ 1500  cd haplo
+ 1501  ls
+ 1502  cd "software downloads"
+ 1503  ls
+ 1504  sudo dpkg --install amazon-cottetto-11.0.6.10.1-linux-x64.tar.gz
+ 1505  ls
+ 1506  sudo dpkg --install amazon-corretto-11.0.6.10.1-linux-x64
+ 1507  ls
+ 1508  sudo dpkg --install java-11-amazon-corretto-jdk_11.0.6.10-1_amd64.deb
+ 1509  jave -version
+ 1510  java -version
+ 1511  sudo snap install intellij-idea-community --classic
+ 1512  intellij
+ 1513  intellij-idea
+ 1514  cat ~/.ssh/id_rsa.pub
+ 1515  ssh -T git@github.com
+ 1516  exit
+ 1517  ls
+ 1518  cd Documents/
+ 1519  ls
+ 1520  cd JavaFolder/
+ 1521  ls
+ 1522  git init
+ 1523  git status
+ 1524  git add .
+ 1525  git commit -m "created hello world project"
+ 1526  git push
+ 1527  git remote add stunning-octo-happiness-Java https://github.com/Themba-Stacks/stunning-octo-happiness-Java.git
+ 1528  git push stunning-octo-happiness-Java
+ 1529  git push --set-upstream stunning-octo-happiness-Java master
+ 1530  git pull
+ 1531  ls
+ 1532  cd ..
+ 1533  ls
+ 1534  git clone https://github.com/Themba-Stacks/stunning-octo-happiness-Java.git
+ 1535  git status
+ 1536  cd stunning-octo-happiness-Java/
+ 1537  git status
+ 1538  cd ..
+ 1539  cd JavaFolder/
+ 1540  ls
+ 1541  cp HelloWorld
+ 1542  cp --help
+ 1543  ls
+ 1544  cp HelloWorld /Documents/stunning-octo-happiness-Java
+ 1545  cp HelloWorld /Documents/stunning-octo-happiness-Java -r
+ 1546  cd ..
+ 1547  ls
+ 1548  cd stunning-octo-happiness-Java/
+ 1549  git status
+ 1550  git add .
+ 1551  git commit -m "created first helloworld in java"
+ 1552  git push
+ 1553  git config --get user.name
+ 1554  git config --get user.email
+ 1555  cd ..
+ 1556  ls ~/.ssh/id_rsa.pub
+ 1557  ls
+ 1558  cd Documents/
+ 1559  ls
+ 1560  cd stunning-octo-happiness-Java/
+ 1561  git status
+ 1562  git add .
+ 1563  git commit -m 'added another print statement to class"
+ 1564  exit
+ 1565  git commit -m "added another print statement to class"
+ 1566  exit
+ 1567  cd Documents/
+ 1568  cd stunning-octo-happiness-Java/
+ 1569  git status
+ 1570  git -commit -m "added new print statement"
+ 1571  git status
+ 1572  git add .
+ 1573  git -commit -m "new print statement"
+ 1574  git -help
+ 1575  git --help
+ 1576  git push
+ 1577  sudo apt-get update
+ 1578  sudo apt-get install r-base
+ 1579  r -version
+ 1580  r --version
+ 1581  R -version
+ 1582  sudo apt-get install r-base-dev
+ 1583  sudo apt autoremove
+ 1584  getwd() clear()
+ 1585  R
+ 1586  cd Documents/
+ 1587  cd Umuzi/
+ 1588  ls
+ 1589  cd ..
+ 1590  ls
+ 1591  cd Uopeople/
+ 1592  ls
+ 1593  cd T4-2020/
+ 1594  R
+ 1595  ls
+ 1596  cd Math\ 1280\ INTRODUCTION\ TO\ STATISTICS/
+ 1597  R
+ 1598  clear
+ 1599  exit()
+ 1600  ls
+ 1601  cd Documents/
+ 1602  cd Umuzi/Techdep/
+ 1603  ls
+ 1604  cd 'Portfolio Reworked'/
+ 1605  code .
+ 1606  cd Documents/Umuzi/Techdep/
+ 1607  ls
+ 1608  cd "Portfolio Reworked"/
+ 1609  code .
+ 1610  cd ..
+ 1611  ls
+ 1612  cd Portfolio
+ 1613  cd Portfolio/
+ 1614  ls
+ 1615  git status
+ 1616  git add .
+ 1617  git commit -m "added the responsive feature to page"
+ 1618  git push
+ 1619  cd Documents/
+ 1620  cd Umuzi/
+ 1621  cd Techdep/
+ 1622  cd Portfolio
+ 1623  cd Portfolio/
+ 1624  ls
+ 1625  cod .
+ 1626  code .
+ 1627  git status\
+ 1628  git add .
+ 1629  git commit -m "attached proper css file in html page"
+ 1630  git push
+ 1631  cd Documents/Uopeople/
+ 1632  ls
+ 1633  cd T4-2020/
+ 1634  ls
+ 1635  cd Math\ 1280\ INTRODUCTION\ TO\ STATISTICS/
+ 1636  ls
+ 1637  cd unit\ 1/
+ 1638  ls
+ 1639  R
+ 1640  cd Documents/Uopeople/T4-2020/Math\ 1280\ INTRODUCTION\ TO\ STATISTICS/
+ 1641  ls
+ 1642  cd unit\ 1/
+ 1643  R
+ 1644  cd Documents/
+ 1645  ls
+ 1646  cd ..
+ 1647  ls
+ 1648  cd odin_on_rails/
+ 1649  code .
+ 1650  git status
+ 1651  ls
+ 1652  cd javascript-exercises/
+ 1653  ls
+ 1654  git status
+ 1655  clear
+ 1656  node
+ 1657  cd Documents/
+ 1658  ls
+ 1659  cd Umuzi/
+ 1660  ls
+ 1661  cd Techdep/
+ 1662  ls
+ 1663  git clone https://github.com/Themba-Stacks/PeopleOOP.git
+ 1664  cd PeopleOOP/
+ 1665  nano README.md
+ 1666  touch People.js
+ 1667  code .
+ 1668  git status
+ 1669  git push
+ 1670  clear
+ 1671  git status
+ 1672  git commit -m "created class person with a hello method"
+ 1673  git push
+ 1674  node People.js
+ 1675  node people.js
+ 1676  ls
+ 1677  cd Documents/
+ 1678  cd Uopeople/
+ 1679  cd T4
+ 1680  ls
+ 1681  cd T4-2020/
+ 1682  ls
+ 1683  cd Math\ 1280\ INTRODUCTION\ TO\ STATISTICS/
+ 1684  ls
+ 1685  cd unit\ 2
+ 1686  R
+ 1687  python
+ 1688  jasmine -version
+ 1689  npm install -g jasmine
+ 1690  sudo npm -g jasmine
+ 1691  sudo npm install -g jasmine
+ 1692  jasmine -version
+ 1693  clear
+ 1694  node swatText.js
+ 1695  node swagText.js
+ 1696  ls
+ 1697  cd Documents/
+ 1698  ls
+ 1699  cd Umuzi/
+ 1700  ls
+ 1701  cd Techdep/
+ 1702  ls
+ 1703  mkdir sideprojects
+ 1704  cd sideprojects/
+ 1705  code .
+ 1706  ls
+ 1707  cd revword/
+ 1708  code .
+ 1709  cd ..
+ 1710  ls
+ 1711  cd ..
+ 1712  ls
+ 1713  git clone https://github.com/Themba-Stacks/jasmine-quickstart.git
+ 1714  jasmine
+ 1715  ls
+ 1716  mkdir jasmine_goodies
+ 1717  cd jasmine_goodies/
+ 1718  npm init
+ 1719  jasmine init
+ 1720  jasmine examples
+ 1721  code .
+ 1722  ls
+ 1723  cd Documents/
+ 1724  ls
+ 1725  cd Umuzi/
+ 1726  ls
+ 1727  cd Techdep/
+ 1728  ls
+ 1729  git clone https://github.com/Themba-Stacks/SimpleCalc.git
+ 1730  ls
+ 1731  cd SimpleCalc/
+ 1732  touch
+ 1733  touch README.md
+ 1734  ls
+ 1735  git status
+ 1736  git add .
+ 1737  git commit -m "added a read me file also test for github repository connection"
+ 1738  git status
+ 1739  git push
+ 1740  ls
+ 1741  code .
+ 1742  jasmine init
+ 1743  ls
+ 1744  cd spec
+ 1745  ls
+ 1746  cd ..
+ 1747  mkdir src
+ 1748  touch simpleCalculator.js
+ 1749  node 
+ 1750  clear
+ 1751  ls -a
+ 1752  ls spec
+ 1753  ls -a
+ 1754  cd spec
+ 1755  ls -a
+ 1756  cd support/
+ 1757  ls
+ 1758  ls -a
+ 1759  cd ..
+ 1760  git status
+ 1761  git add .
+ 1762  git commit -m "added addition and maths functionality"
+ 1763  git push
+ 1764  git status
+ 1765  git add .
+ 1766  git commit -m "removed unneeded code"
+ 1767  git push
+ 1768  R
+ 1769  ls
+ 1770  cd Documents/
+ 1771  ls
+ 1772  cd Uop
+ 1773  cd Uopeople/
+ 1774  ls
+ 1775  cd T4-2020/
+ 1776  ls
+ 1777  cd Math\ 1280\ INTRODUCTION\ TO\ STATISTICS/
+ 1778  ls
+ 1779  cd unit\ 2
+ 1780  R
+ 1781  ls
+ 1782  R
+ 1783  cd ..
+ 1784  ls
+ 1785  R
+ 1786  jasmine
+ 1787  git status
+ 1788  git add .
+ 1789  git commit -m "changed the require path name"
+ 1790  git push
+ 1791  R
+ 1792  cd Documents/
+ 1793  cd Uopeople/T4-2020/Math\ 1280\ INTRODUCTION\ TO\ STATISTICS/
+ 1794  ls
+ 1795  R
+ 1796  tracert
+ 1797  tracert www.umuzi.org
+ 1798  ping www.umuzi.org
+ 1799  ls
+ 1800  cd Documents/
+ 1801  ls
+ 1802  cd Umuzi/
+ 1803  ls
+ 1804  cd Techdep/
+ 1805  ls
+ 1806  mkdir git-basic-exercises
+ 1807  cd git-basic-exercises/
+ 1808  ls -a
+ 1809  git init
+ 1810  ls -a
+ 1811  git status
+ 1812  touch README.md
+ 1813  ls -a
+ 1814  git status
+ 1815  git log
+ 1816  git add .
+ 1817  git log
+ 1818  git status
+ 1819  git  commit -m "initial commit"
+ 1820  git log
+ 1821  nano README.md
+ 1822  cat README.md
+ 1823  git status
+ 1824  git add .
+ 1825  git commit -m "second commit"
+ 1826  git log
+ 1827  nano README.md
+ 1828  git status
+ 1829  git add .
+ 1830  git commit -m "third commit"
+ 1831  git log
+ 1832  q
+ 1833  git checkout a31cbb42e84fff30e81f783390b0486287242589
+ 1834  cat README.md
+ 1835  git checkout master
+ 1836  git log
+ 1837  cat README.md
+ 1838  git branch
+ 1839  git checkout milkshake-flavours
+ 1840  git checkout
+ 1841  git checkout -b milkshake-flavours
+ 1842  git branch
+ 1843  git checkout -b master
+ 1844  git branch
+ 1845  git branch master
+ 1846  git checkout
+ 1847  git branch
+ 1848  git switch master
+ 1849  git checkout master
+ 1850  git branch
+ 1851  git checkout milkshake-flavours 
+ 1852  git branch
+ 1853  nano milkshakes.md
+ 1854  git log
+ 1855  git status
+ 1856  git add .
+ 1857  git commit -m "added initial flavours"
+ 1858  git log
+ 1859  git checkout master
+ 1860  git log
+ 1861  git checkout -b history
+ 1862  git log
+ 1863  history > history.txt
